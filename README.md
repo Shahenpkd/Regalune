@@ -122,4 +122,5 @@ the original HeartMuLa project or its maintainers.
 ## Credits
 
 - **Original Model & Research**: [HeartMuLa Team](https://github.com/HeartMuLa)
-- **Regalune UI & Fixes**: [Shahenpkd](https://github.com/Shahenpkd)
+- **Regalune UI & Fixes**: [Abdulla Shahenshah Razwa](https://github.com/Shahenpkd)
+- **Support**: [CrownPrime](https://github.com/CrownPrime)
