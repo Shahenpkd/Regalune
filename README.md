@@ -28,7 +28,7 @@ This project is intended for personal, educational, and experimental use only.
 
 ## Screenshots
 
-![Regalune UI](./assets/screenshot.png)
+![Regalune UI](./heartlib/assets/screenshot.png)
 
 ---
 
